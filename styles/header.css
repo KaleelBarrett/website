@@ -1,0 +1,25 @@
+.header-left {
+}
+
+.header-middle {
+  width: 10px;
+}
+
+.header-right {
+  text-align: start;
+  margin-top: 10px;
+}
+
+.header {
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #10654e;
+}
+
+.footer-header-footer-1 {
+  background-color: blue;
+  height: 100px;
+  width: 2000px;
+}

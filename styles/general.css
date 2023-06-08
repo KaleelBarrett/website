@@ -1,0 +1,14 @@
+p {
+  font-family: Roboto, Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+body {
+  margin: 0;
+}
+
+.logo {
+  width: 10px;
+  height: 10px;
+}

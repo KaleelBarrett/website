@@ -1,0 +1,97 @@
+.green-banana,
+.plantain,
+.ripe-banana {
+  width: 200px;
+  margin-top: 100 px;
+  display: inline-block;
+  padding: 20px;
+}
+
+.yam,
+.potato,
+.pumpkin,
+.irish,
+.okra,
+.cucumber {
+  width: 200px;
+  margin-top: 100 px;
+  display: inline-block;
+  padding: 20px;
+  margin-left: 16px;
+  size: 20 px;
+}
+
+.onion,
+.callaloo,
+.chicken,
+.melon,
+.papaya,
+.canteloupe {
+  width: 200px;
+  margin-top: 100 px;
+  display: inline-block;
+  padding: 20px;
+}
+
+.peper,
+.thyme,
+.esc,
+.garlic,
+.pork {
+  width: 200px;
+  margin-top: 100 px;
+  display: inline-block;
+  padding: 20px;
+  margin-left: 16px;
+  size: 20 px;
+}
+
+.pak-choi {
+  width: 200px;
+  margin-top: 100 px;
+  display: inline-block;
+  padding: 20px;
+  margin-left: 16px;
+  size: 20 px;
+}
+.potato-picture,
+.yellow-yam-picture,
+.onion,
+.pumpkin-picture,
+.irish-picture,
+.plantain-picture,
+.green-banana-picture,
+.pepper-picture,
+.escallion-picture,
+.thyme-picture,
+.garlic-picture,
+.callaloo-picture,
+.okra-picture,
+.cucumber-picture,
+.pak-choi-picture,
+.chicken-picture,
+.pork-picture,
+.ripe-banana-picture,
+.melon-picture,
+.papaya-picture,
+.canteloupe-picture {
+  width: 200px;
+  height: 200 px;
+}
+
+.my-button {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  align-self: bottom;
+}
+
+.my-button:hover {
+  background-color: #45a049; /* Change the background color on hover */
+}
